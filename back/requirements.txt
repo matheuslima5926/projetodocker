@@ -1,0 +1,4 @@
+flask
+flask-marshmallow==0.9.0
+Flask-SQLAlchemy==2.3.2
+SQLAlchemy==1.2.11
